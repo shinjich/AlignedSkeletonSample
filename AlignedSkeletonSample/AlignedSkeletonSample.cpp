@@ -17,7 +17,7 @@
 #define MAX_BODIES				8
 
 // アプリケーションのタイトル名
-static const TCHAR szClassName[] = TEXT("セグメンテーションサンプル");
+static const TCHAR szClassName[] = TEXT("骨格座標をカラー座標に合わせるサンプル");
 HWND g_hWnd = NULL;							// アプリケーションのウィンドウ
 HPEN g_hPen = NULL;							// 描画用のペン
 
